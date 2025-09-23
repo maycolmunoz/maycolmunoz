@@ -3,6 +3,7 @@
 🚀 **Full-Stack Web Developer | Laravel & TALL Stack Enthusiast**  
 💻 Building scalable, maintainable, and modern web applications.  
 📌 Specialized in **Laravel, Inertia, Livewire, Filament, and RESTful APIs**.  
+☁️ Experienced in designing and developing **SaaS products**.  
 
 ---
 ## 🛠️ Tech Stack
