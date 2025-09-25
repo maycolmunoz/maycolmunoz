@@ -15,9 +15,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maycolmunoz&show_icons=true&theme=tokyonight&count_private=true" height="120" />
-  <img src="https://streak-stats.demolab.com?user=maycolmunoz&theme=tokyonight" height="120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycolmunoz&layout=compact&theme=tokyonight" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maycolmunoz&show_icons=true&theme=tokyonight&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycolmunoz&layout=compact&theme=tokyonight" height="200" />
 </p>
 
 
