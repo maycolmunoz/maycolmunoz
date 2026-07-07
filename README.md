@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maycol! 👋</h1>
+<h1 align="center">Hi, I'm Maycol Muñoz! 👋</h1>
 
 <p align="left">
   🚀 Full-Stack Web Developer | Laravel & TALL Stack Enthusiast <br>
